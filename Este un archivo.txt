@@ -1,1 +1,3 @@
-Esta es una prueba de utilizacion de git, Realizada Por Angie Londoño...Con CC N° 1005363019 de Manizales
+Esta es una prueba de utilizacion de git, Realizada Por Angie Londoño...Con CC N° 1005363019 de Manizales..
+
+Fecha: Domingo 19/12/21
